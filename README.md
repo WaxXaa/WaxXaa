@@ -1,6 +1,6 @@
 #Alejandro Jesús 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?waxxaa=anuraghazra&show_icons=true&theme=radical)
-
 hey 
 Here are some ideas to get you started:
 
