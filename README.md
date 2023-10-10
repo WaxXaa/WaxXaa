@@ -1,8 +1,7 @@
-### Hi there 👋
+#Alejandro Jesús 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?WaxXaa=anuraghazra&show_icons=true&theme=radical)
 
-<!--
-**WaxXaa/WaxXaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+hey 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
